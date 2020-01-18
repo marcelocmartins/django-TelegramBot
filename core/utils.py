@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = '1006254076:AAEVeYezbRPzFF4FRptN_TnDrt7dDRZUMHc'
+TOKEN = 'xxxxxxxxxxxxxxxxxx'
 
 
 def send_message(text, chat_id):
